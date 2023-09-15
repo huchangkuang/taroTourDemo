@@ -1,0 +1,25 @@
+page {
+  background: #f9f9f9;
+}
+.index {
+  background: #f9f9f9;
+  padding: 16px 24px;
+  .card {
+    padding: 24px;
+    border-radius: 16px;
+    background: #ffffff;
+    margin-bottom: 20px;
+  }
+  #hello {
+    width: fit-content;
+    padding: 4px 8px;
+    background: #ee7b7b;
+    color: #ffffff;
+    border-radius: 8px;
+  }
+  #test2 {
+    width: fit-content;
+    padding: 4px 8px;
+    border-radius: 8px;
+  }
+}
